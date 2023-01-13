@@ -1,0 +1,16 @@
+{
+  "name": "chrome-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chrome-remote-interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-devtools-frontend": "^1.0.672485",
+    "chrome-remote-interface": "^0.31.3",
+    "puppeteer": "^19.5.2"
+  }
+}

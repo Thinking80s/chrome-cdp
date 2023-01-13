@@ -1,0 +1,6 @@
+2023/01/12-17:43:48.101 2e03 Reusing MANIFEST /Users/kevin/Downloads/chrome-remote-interface/chrome-cdp/Default/Local Storage/leveldb/MANIFEST-000001
+2023/01/12-17:43:48.103 2e03 Recovering log #3
+2023/01/12-17:43:48.106 2e03 Reusing old log /Users/kevin/Downloads/chrome-remote-interface/chrome-cdp/Default/Local Storage/leveldb/000003.log 
+2023/01/12-17:51:04.506 4f07 Level-0 table #5: started
+2023/01/12-17:51:04.526 4f07 Level-0 table #5: 23808 bytes OK
+2023/01/12-17:51:04.569 4f07 Delete type=0 #3
